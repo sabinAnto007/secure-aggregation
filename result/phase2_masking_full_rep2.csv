@@ -1,0 +1,4 @@
+algorithm,dataset,scenario,clients(K),end_to_end_ms,bytes_per_client,per_client_kB,total_bytes,total_kB,aggregation_ok
+MASKING,HeartDisease,full,303,336.53 ± 6.63,48,0.047,14544,14.203,True
+MASKING,HAR,full,305,459.72 ± 0.13,2252,2.199,686860,670.762,True
+MASKING,FAOSTATT,full,76,21.13 ± 0.33,24,0.023,1824,1.781,True

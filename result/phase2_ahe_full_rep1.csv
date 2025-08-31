@@ -1,0 +1,4 @@
+algorithm,dataset,scenario,clients(K),end_to_end_ms,bytes_per_client,per_client_kB,total_bytes,total_kB,aggregation_ok
+AHE,HeartDisease,full,303,280.19 ± 0.00,3072,3.0,930816,909.0,True
+AHE,HAR,full,305,20925.15 ± 0.00,144128,140.75,43959040,42928.75,True
+AHE,FAOSTATT,full,76,50.81 ± 0.00,1536,1.5,116736,114.0,True

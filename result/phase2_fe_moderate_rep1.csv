@@ -1,0 +1,4 @@
+algorithm,dataset,scenario,clients(K),end_to_end_ms,bytes_per_client,per_client_kB,total_bytes,total_kB,aggregation_ok
+FE,HeartDisease,moderate,152,513.02 ± 0.00,3072,3.0,466944,456.0,True
+FE,HAR,moderate,152,37332.21 ± 0.00,144128,140.75,21907456,21394.0,True
+FE,FAOSTATT,moderate,38,90.16 ± 0.00,1536,1.5,58368,57.0,True
