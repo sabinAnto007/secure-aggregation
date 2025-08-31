@@ -19,9 +19,9 @@ import pandas as pd
 
 # ---------- Datasets ----------
 DATASETS = [
-    ("/Users/sabinanto/Downloads/heart_disease_clean.csv", "HeartDisease"),
-    ("/Users/sabinanto/Downloads/harmergedd.csv",          "HAR"),
-    ("/Users/sabinanto/Downloads/faostattt_clean.csv",     "FAOSTATT"),
+    ("/Users/xyz/Downloads/heart_disease_clean.csv", "HeartDisease"),
+    ("/Users/xyz/Downloads/harmergedd.csv",          "HAR"),
+    ("/Users/xyz/Downloads/faostattt_clean.csv",     "FAOSTATT"),
 ]
 
 # Fractions per scenario
